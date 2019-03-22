@@ -1,9 +1,9 @@
 body {
 
-  color: white;
-  background-color: black;
+  color: steelblue;
+  background-color: rgb(1, 56, 49);
   font-family: 'Sacramento', cursive;
-  font-size: 150%;
+  font-size: 4em;
   margin: 5em 25%;
 }
 
